@@ -8,9 +8,8 @@ This includes:
 
 - Pterodactyl eggs  
 - Runtime definitions  
-- Deployment templates  
-- Service configuration files  
-- Supporting automation scripts  
+
+---
 
 All repositories in this organization are used in production environments.
 
