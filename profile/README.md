@@ -16,6 +16,4 @@ All repositories in this organization are used in production environments.
 
 If you deploy services on BrickHosting, these repositories power your instances.
 
-For support or questions, use our official Discord:
-
-https://discord.gg/e2h92FX4p9
+For support or questions, use our official Discord: https://discord.gg/e2h92FX4p9
